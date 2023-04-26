@@ -1,0 +1,6 @@
+#FileLock
+#Wed Apr 26 13:44:04 IST 2023
+server=192.168.0.106\:61767
+hostName=Solaris022
+method=file
+id=187bca06ba79b47b4ad7c45f16624091c99036d21de
